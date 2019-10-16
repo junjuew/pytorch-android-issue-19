@@ -1,6 +1,7 @@
 # Debugging
 
-pytorch-android issue: https://github.com/pytorch/android-demo-app/issues/19
+pytorch-android issue: https://github.com/pytorch/android-demo-app/issues/19.
+DNN model definition is in [transformer_net.py](transformer_net.py)
 
 ## How to Use
 
